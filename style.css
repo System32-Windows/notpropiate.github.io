@@ -1,6 +1,9 @@
-h1,
-h2,
-h3 {
-	font-family: 'monospace'
+body {
+	font-family: 'ElementarzDwa';
 	font-weight: 500;
+}
+
+.formatted-text {
+	font-family: 'Segoe UI' ;
+
 }

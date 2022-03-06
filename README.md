@@ -1,2 +1,2 @@
-# notpropiate.github.io
-I created this for my brother
+# Nieodpowiednie dla dzieci!
+### Strona, na którą trafiłeś jest nieodpowiednia. Spróbuj wybrać coś lepszego!
